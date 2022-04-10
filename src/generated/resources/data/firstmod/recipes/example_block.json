@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "firstmod:example_item"
+    }
+  },
+  "result": {
+    "item": "firstmod:example_block"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "firstmod:example_log",
+    "firstmod:example_wood",
+    "firstmod:stripped_example_log",
+    "firstmod:stripped_example_wood"
+  ]
+}

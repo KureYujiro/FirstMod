@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "firstmod:example_stick"
+    ]
+  },
+  "criteria": {
+    "has_example_planks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "firstmod:example_planks"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "firstmod:example_stick"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_example_planks",
+      "has_the_recipe"
+    ]
+  ]
+}

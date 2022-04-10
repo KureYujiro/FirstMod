@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "firstmod:example_axe",
+    "firstmod:example_hoe",
+    "firstmod:example_pickaxe",
+    "firstmod:example_shovel",
+    "firstmod:example_sword"
+  ]
+}

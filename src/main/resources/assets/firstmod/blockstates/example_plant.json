@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "age=0": { "model": "firstmod:block/example_stage0" },
+    "age=1": { "model": "firstmod:block/example_stage1" },
+    "age=2": { "model": "firstmod:block/example_stage2" },
+    "age=3": { "model": "firstmod:block/example_stage3" },
+    "age=4": { "model": "firstmod:block/example_stage4" },
+    "age=5": { "model": "firstmod:block/example_stage5" }
+  }
+}

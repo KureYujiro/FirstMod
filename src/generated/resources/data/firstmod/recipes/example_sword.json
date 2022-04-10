@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " a ",
+    " a ",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "firstmod:example_item"
+    },
+    "b": {
+      "item": "firstmod:example_stick"
+    }
+  },
+  "result": {
+    "item": "firstmod:example_sword"
+  }
+}

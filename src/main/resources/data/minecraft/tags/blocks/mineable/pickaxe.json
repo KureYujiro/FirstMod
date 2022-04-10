@@ -1,0 +1,8 @@
+{ 
+	"replace": false,
+	"values": [ 
+		"firstmod:example_block",
+		"firstmod:example_ore"
+	]
+
+}
